@@ -1,0 +1,5 @@
+https://github.com/eternnoir/pyTelegramBotAPI
+https://akirasan.net/crear-bots-para-telegram-mediante-python/
+http://untitled.es/bot-telegram-python-parte-2/
+https://www.youtube.com/watch?v=4fcDku71LLY
+https://stackoverflow.com/questions/54224375/telebot-how-do-i-save-a-message-from-user-into-a-variable
